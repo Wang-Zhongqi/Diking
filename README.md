@@ -50,10 +50,9 @@ int main(){
 
 ##日常网址
 
-1. [github](http/www.github.com/)
-2. [b站](http/www.bilibili.com/)
-3. [妖尾中文网](http://www.yaojingweiba.com/)
-4. [我的博客编辑](https://github.com/Wang-Zhongqi/Diking)
-5. [我的博客](https://wang-zhongqi.github.io/Diking/)
+1. [b站](http//www.bilibili.com/)
+2. [妖尾中文网](http://www.yaojingweiba.com/)
+3. [我的博客编辑](https://github.com/Wang-Zhongqi/Diking)
+4. [我的博客](https://wang-zhongqi.github.io/Diking/)
 
 :+1::+1::+1:
