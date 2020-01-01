@@ -56,7 +56,7 @@ int main(){
 |:-:|:-:|:-:|
 |2020年1月1日14:55:08|修订完毕|v0.1|
 
-##日常网址
+## 日常网址
 
 1. [b站](http://www.bilibili.com/)
 2. [妖尾中文网](http://www.yaojingweiba.com/)
