@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+# 个人简介
+---
+## 基本信息
 
-You can use the [editor on GitHub](https://github.com/Wang-Zhongqi/Diking/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**姓名：** 王忠齐
+**年龄：** 19
+**爱好：**
+* **看动漫**
+* **打乒乓球**
+* **未来可能会喜欢戴假发** *~~秃头预定~~*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**人生格言**
+>不愧是你
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```c++
+#include<cstdio>
+int main(){
+    printf("不愧是你\n");
+    main();
+    return 0;
+}
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
+## 联系方式
+**qq号：** 2253675767
+## 代办事项
+- [ ] 2020要看的书
+  - [ ] 《了不起的Markdown》
+  - [ ] 《python编程从入门到实践》
+  - [ ] 《Java编程思想》
+  - [ ] 《go语言实践》
+  - [ ] 《重构 改善既有代码的技术》
 
-### Jekyll Themes
+**准备学习的内容**
+- [ ] 《MySQL》
+- [ ] 《TCP/IP详解》
+- [ ] 《鸟哥的linux私房菜》
+- [ ] 《UNIX环境高级编程》
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Wang-Zhongqi/Diking/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**小结一下：** 我好像啥也不会
 
-### Support or Contact
+---
+## 修订记录：
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+|时间|内容|版本|
+|:-:|:-:|:-:|
+|2020年1月1日14:55:08|修订完毕|v0.1|
+
+##日常网址
+
+1. [github](http/www.github.com/)
+2. [b站](http/www.bilibili.com/)
+3. [妖尾中文网](http://www.yaojingweiba.com/)
+4. [我的博客编辑](https://github.com/Wang-Zhongqi/Diking)
+5. [我的博客](https://wang-zhongqi.github.io/Diking/)
+
+:+1::+1::+1:
